@@ -1,5 +1,9 @@
-/challenge1/.DS_Store
-/challenge1/imbens_xu_2025_replication
-/challenge1/output
-/challenge1/rawdata
-/.DS_Store
+.DS_Store
+
+# Challenge 1
+/challenge1_imbensxu_replication/imbens_xu_2025_replication
+/challenge1_imbensxu_replication/output
+/challenge1_imbensxu_replication/rawdata
+
+# Challenge 2
+/challenge2_jazzchords/rawdata
