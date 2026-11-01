@@ -1,0 +1,6 @@
+bandwidth (years),avg people used,power,median estimate,spread of estimates (SD)
+1,99,0.126,0.71,1.46
+2,200,0.182,0.79,0.87
+3,300,0.244,0.79,0.67
+4,401,0.34,0.83,0.61
+5,500,0.366,0.78,0.52

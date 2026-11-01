@@ -1,0 +1,5 @@
+heavy riders apply below 60,outcome,true effect,median estimate,false positive rate
+No,Rides after (level),0,0.12,0.036
+No,Change in rides (after - before),0,0.02,0.06
+Yes (+35% rides),Rides after (level),0,-1.85,0.19
+Yes (+35% rides),Change in rides (after - before),0,0.06,0.056
